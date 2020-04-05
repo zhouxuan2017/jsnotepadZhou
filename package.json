@@ -1,33 +1,30 @@
-
-  "name": "jsnotepad",
-  "version": "0.0.1",
+{
+  "name": "jsnotepadZhou",
+  "version": "1.0.0",
   "description": "Windows 记事本网页版",
+  "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
-
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangding/jsnotepad.git"
+    "url": "git+https://github.com/zhouxuan2017/jsnotepadZhou.git"
   },
-  "author": "wangding",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wangding/jsnotepad/issues"
+    "url": "https://github.com/zhouxuan2017/jsnotepadZhou/issues"
   },
-  "homepage": "https://github.com/wangding/jsnotepad#readme",
+  "homepage": "https://github.com/zhouxuan2017/jsnotepadZhou#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-clean": "^1.1.0",
-    "grunt-contrib-concat": "^1.0.1",
-    "grunt-contrib-copy": "^1.0.0",
+    "grunt": "^1.1.0",
     "grunt-contrib-csslint": "^2.0.0",
-    "grunt-contrib-cssmin": "^2.2.1",
-    "grunt-contrib-htmlmin": "^2.4.0",
-    "grunt-contrib-imagemin": "^2.0.1",
-    "grunt-contrib-uglify": "^3.3.0",
-    "grunt-eslint": "^21.0.0",
-    "grunt-htmlhint": "^0.9.13",
-    "grunt-usemin": "^3.1.1"
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-eslint": "^22.0.0",
+    "grunt-htmlhint": "^0.9.13"
   }
 }
