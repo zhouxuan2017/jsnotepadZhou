@@ -1,10 +1,10 @@
-{
+
   "name": "jsnotepad",
   "version": "0.0.1",
   "description": "Windows 记事本网页版",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
-    "build": "grunt build"
+
   },
   "repository": {
     "type": "git",
